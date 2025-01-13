@@ -18,7 +18,7 @@ In this notebook, Data Science Tools and Ecosystem are summarized.
 ### Exercise 1 - Create a markdown cell with title of the notebook
 Below is the screenshot for creating a title in the notebook.
 
-![2-title](/2-title.png)
+![2-title](/2-tittle.png)
 
 ### Exercise 2 - Create a markdown cell for an introduction
 This is the screenshot for the introduction markdown cell.
